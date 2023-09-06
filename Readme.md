@@ -10,7 +10,7 @@
 5. Create a Virtual Environment
     - ```conda create -n gitgame python=3.11```
 6. Activate the Virtual Environment
-    - ```conda activate gitgame
+    - ```conda activate gitgame```
 7. Install the requirements from `requirements.txt`
     - ```pip install -r requirements.txt```
 8. Run make gitgame
